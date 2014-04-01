@@ -14,7 +14,7 @@ zhcn =
   usernameOrEmail: "用户名或邮箱地址"
   email: "邮箱地址"
   ifYouAlreadyHaveAnAccount: "已经拥有账号"
-  signUpWithYourEmailAddress: "通过邮箱登陆"
+  signUpWithYourEmailAddress: "通过邮箱注册"
   username: "用户名"
   optional: "可选"
   signupCode: "注册码"
